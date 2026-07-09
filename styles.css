@@ -1775,3 +1775,12 @@ figure.testimonial-card .testimonial-stars {
     font-size: 3rem;
   }
 }
+.privacy-notice {
+  max-width: 900px;
+  margin: 1.5rem auto 0;
+  padding: 0 1rem;
+  font-size: 0.85rem;
+  line-height: 1.6;
+  text-align: center;
+  opacity: 0.85;
+}
